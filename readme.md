@@ -14,8 +14,8 @@ A recommended way to install the required packages and reproduce the model runs 
 
 ```bash
 # Clone this repository and navigate to the root folder
-git clone XXX
-cd XXX
+git clone git@github.com:amireson/soilicePaper2026.git
+cd soilicePaper2026
 
 # Create and activate a virtual environment (optional)
 python -m venv .venv
