@@ -2,7 +2,7 @@
 
 # About
 
-This repository contains the scripts and model outputs used to produce the results in the manuscript ___.
+This repository contains the scripts and model outputs used to produce the results in the manuscript Ireson et al (2026, submitted to VZJ).
 
 The simulations use [soilice v1.0](https://doi.org/10.5281/zenodo.19832264).
 
