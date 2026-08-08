@@ -55,7 +55,6 @@ def printBalance(run):
     print(f'Energy balance error:        {(du[-1]-(jT[-1]-jB[-1]))/1e3:.4f} kJ/m2')
     print(f'EB error as fraction of jT:  {(du[-1]-(jT[-1]-jB[-1]))/jT[-1]:.4f} -')
 
-
 #########################
 # First results figure
 #########################
