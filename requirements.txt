@@ -1,0 +1,6 @@
+soilice @ git+https://github.com/amireson/soilice.git@9b6d3bd1e91370de286551cf4ab70dac6fe2dbe2
+numpy==2.4.6
+scipy==1.18.0
+pandas==3.0.3
+matplotlib==3.11.0
+dill==0.4.1
